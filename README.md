@@ -34,6 +34,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAGESH-N&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGESH-N&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+- 🖥 **Frontend:**
 
+  - **Language:** `JavaScript`
+  - **Framework/Library:** `React.js` 
+  - **Utils:** `Html` • `Modular CSS`
+  
+- 🗄️ **Backend:**
+
+  - **Language/Platform:** `PHP` • `JavaScript` • `Node.js`
+  - **Databases:** `MySQL` • `Mongodb`
 
 
