@@ -44,5 +44,7 @@
 
   - **Language/Platform:** `PHP` • `JavaScript` • `Node.js`
   - **Databases:** `MySQL` • `Mongodb`
+- 🗄️ **UI/UX design:**
 
+  - **Platform:** `figma`
 
